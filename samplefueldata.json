@@ -9,7 +9,9 @@
     "CurrentPriceUSD": 1.22,
     "PreviousPriceUSD": 1.22,
     "PumpName": "IndianOil",
-    "PumpContact": "9876543210"
+    "PumpContact": "9876543210",
+    "Latitude":17.448294,
+    "Longitude":78.391487
   },
  {
     "Country": "India",
@@ -21,7 +23,9 @@
     "CurrentPriceUSD": 1.09,
     "PreviousPriceUSD": 1.09,
     "PumpName": "IndianOil Madhapur",
-    "PumpContact": "9876543210"
+    "PumpContact": "9876543210",
+    "Latitude":17.448294,
+    "Longitude":78.391487
   },
   {
     "Country": "India",
@@ -33,7 +37,9 @@
     "CurrentPriceUSD": 1.22,
     "PreviousPriceUSD": 1.22,
     "PumpName": "BPCL Gachibowli",
-    "PumpContact": "9123456780"
+    "PumpContact": "9123456780",
+    "Latitude":17.440081,
+    "Longitude":78.348915
   },
   {
     "Country": "India",
@@ -41,11 +47,13 @@
     "Area": "Gachibowli",
     "Pincode": "500032",
     "StationType": "CODO",
-    "FuelType": "Diesel",
+    "FuelType": "Petrol",
     "CurrentPriceUSD": 1.09,
     "PreviousPriceUSD": 1.09,
-    "PumpName": "BPCL Gachibowli",
-    "PumpContact": "9123456780"
+    "PumpName": "IOCL Gachibowli",
+    "PumpContact": "9123456780",
+     "Latitude":17.440081,
+    "Longitude":78.348915
   },
   {
     "Country": "India",
@@ -57,7 +65,9 @@
     "CurrentPriceUSD": 1.22,
     "PreviousPriceUSD": 1.22,
     "PumpName": "HPCL Kukatpally",
-    "PumpContact": "9012345678"
+    "PumpContact": "9012345678",
+      "Latitude":17.4849,
+    "Longitude":78.4138
   },
   {
     "Country": "India",
@@ -69,7 +79,9 @@
     "CurrentPriceUSD": 1.09,
     "PreviousPriceUSD": 1.09,
     "PumpName": "HPCL Kukatpally",
-    "PumpContact": "9012345678"
+    "PumpContact": "9012345678",
+    "Latitude":17.4849,
+    "Longitude":78.4138
   },
   {
     "Country": "India",
@@ -81,7 +93,9 @@
     "CurrentPriceUSD": 1.23,
     "PreviousPriceUSD": 1.22,
     "PumpName": "IndianOil Secbad",
-    "PumpContact": "9988776655"
+    "PumpContact": "9988776655",
+     "Latitude":17.43993,
+    "Longitude":78.498276
   },
  {
     "Country": "India",
@@ -93,7 +107,9 @@
     "CurrentPriceUSD": 1.09,
     "PreviousPriceUSD": 1.09,
     "PumpName": "IndianOil Secbad",
-    "PumpContact": "9988776655"
+    "PumpContact": "9988776655",
+     "Latitude":17.43993,
+    "Longitude":78.498276
   },
   {
     "Country": "India",
@@ -105,7 +121,10 @@
     "CurrentPriceUSD": 1.22,
     "PreviousPriceUSD": 1.22,
     "PumpName": "BPCL LB Nagar",
-    "PumpContact": "9090909090"
+    "PumpContact": "9090909090",
+     "Latitude": 17.3535,
+    "Longitude": 78.5426
+
   },
   {
     "Country": "India",
@@ -117,7 +136,10 @@
     "CurrentPriceUSD": 1.09,
     "PreviousPriceUSD": 1.09,
     "PumpName": "BPCL LB Nagar",
-    "PumpContact": "9090909090"
+    "PumpContact": "9090909090",
+     "Latitude": 17.3535,
+    "Longitude": 78.5426
+
   },
   {
     "Country": "USA",
@@ -129,7 +151,9 @@
     "CurrentPriceUSD": 4.85,
     "PreviousPriceUSD": 4.79,
     "PumpName": "Chevron LA Central",
-    "PumpContact": "2135550101"
+    "PumpContact": "2135550101",
+     "Latitude": 33.9740,
+    "Longitude": -118.2494
   },
   {
     "Country": "USA",
@@ -141,7 +165,9 @@
     "CurrentPriceUSD": 5.1,
     "PreviousPriceUSD": 5.02,
     "PumpName": "Chevron LA Central",
-    "PumpContact": "2135550101"
+    "PumpContact": "2135550101",
+     "Latitude": 33.9740,
+    "Longitude": -118.2494
   },
   {
     "Country": "USA",
@@ -153,7 +179,9 @@
     "CurrentPriceUSD": 4.72,
     "PreviousPriceUSD": 4.65,
     "PumpName": "Shell San Diego",
-    "PumpContact": "6195550199"
+    "PumpContact": "6195550199",
+     "Latitude": 32.7183,
+    "Longitude": -117.1624
   },
   {
     "Country": "USA",
@@ -165,7 +193,9 @@
     "CurrentPriceUSD": 4.95,
     "PreviousPriceUSD": 4.88,
     "PumpName": "Shell San Diego",
-    "PumpContact": "6195550199"
+    "PumpContact": "6195550199",
+     "Latitude": 32.7183,
+    "Longitude": -117.1624
   },
   {
     "Country": "USA",
@@ -177,7 +207,9 @@
     "CurrentPriceUSD": 3.15,
     "PreviousPriceUSD": 3.1,
     "PumpName": "Exxon Houston",
-    "PumpContact": "7135550456"
+    "PumpContact": "7135550456",
+     "Latitude": 29.7581,
+    "Longitude": -95.3615
   },
   {
     "Country": "USA",
@@ -189,7 +221,9 @@
     "CurrentPriceUSD": 3.45,
     "PreviousPriceUSD": 3.4,
     "PumpName": "Exxon Houston",
-    "PumpContact": "7135550456"
+    "PumpContact": "7135550456",
+    "Latitude": 29.7581,
+    "Longitude": -95.3615
   },
   {
     "Country": "USA",
@@ -201,7 +235,9 @@
     "CurrentPriceUSD": 3.2,
     "PreviousPriceUSD": 3.12,
     "PumpName": "BP Dallas",
-    "PumpContact": "9725550666"
+    "PumpContact": "9725550666",
+    "Latitude": 32.7877,
+    "Longitude": -96.8000
   },
   {
     "Country": "USA",
@@ -213,7 +249,9 @@
     "CurrentPriceUSD": 3.5,
     "PreviousPriceUSD": 3.44,
     "PumpName": "BP Dallas",
-    "PumpContact": "9725550666"
+    "PumpContact": "9725550666",
+     "Latitude": 32.7877,
+    "Longitude": -96.8000
   },
   {
     "Country": "USA",
@@ -225,7 +263,9 @@
     "CurrentPriceUSD": 4.35,
     "PreviousPriceUSD": 4.28,
     "PumpName": "Mobil Manhattan",
-    "PumpContact": "2125550789"
+    "PumpContact": "2125550789",
+     "Latitude": 40.7505,
+    "Longitude": -73.9934
   },
   {
     "Country": "USA",
@@ -237,7 +277,9 @@
     "CurrentPriceUSD": 4.6,
     "PreviousPriceUSD": 4.55,
     "PumpName": "Mobil Manhattan",
-    "PumpContact": "2125550789"
+    "PumpContact": "2125550789",
+     "Latitude": 40.7505,
+    "Longitude": -73.9934
   },
   {
     "Country": "USA",
@@ -249,7 +291,9 @@
     "CurrentPriceUSD": 3.6,
     "PreviousPriceUSD": 3.55,
     "PumpName": "Shell Miami",
-    "PumpContact": "3055550890"
+    "PumpContact": "3055550890",
+     "Latitude": 25.7791,
+    "Longitude": -80.1978
   },
   {
     "Country": "USA",
@@ -261,7 +305,9 @@
     "CurrentPriceUSD": 3.9,
     "PreviousPriceUSD": 3.85,
     "PumpName": "Shell Miami",
-    "PumpContact": "3055550890"
+    "PumpContact": "3055550890",
+     "Latitude": 25.7791,
+    "Longitude": -80.1978
   },
   {
     "Country": "USA",
@@ -273,7 +319,9 @@
     "CurrentPriceUSD": 4.1,
     "PreviousPriceUSD": 4.05,
     "PumpName": "BP Chicago",
-    "PumpContact": "3125550123"
+    "PumpContact": "3125550123",
+     "Latitude": 41.8859,
+    "Longitude": -87.6248
   },
   {
     "Country": "USA",
@@ -285,7 +333,9 @@
     "CurrentPriceUSD": 4.4,
     "PreviousPriceUSD": 4.35,
     "PumpName": "BP Chicago",
-    "PumpContact": "3125550123"
+    "PumpContact": "3125550123",
+     "Latitude": 41.8859,
+    "Longitude": -87.6248
   },
   {
     "Country": "USA",
@@ -297,7 +347,9 @@
     "CurrentPriceUSD": 4.8,
     "PreviousPriceUSD": 4.72,
     "PumpName": "Chevron Seattle",
-    "PumpContact": "2065550345"
+    "PumpContact": "2065550345",
+     "Latitude": 47.6110,
+    "Longitude": -122.3335
   },
   {
     "Country": "USA",
@@ -309,18 +361,204 @@
     "CurrentPriceUSD": 4.85,
     "PreviousPriceUSD": 4.79,
     "PumpName": "Chevron LA Central",
-    "PumpContact": "2135550101"
+    "PumpContact": "2135550101",
+     "Latitude": 33.9740,
+    "Longitude": -118.2494
   },
   {
     "Country": "India",
-    "State": "Karnataka",
-    "Area": "Bengaluru",
-    "Pincode": "560001",
+    "State": "Telangana",
+    "Area": "ECIL",
+    "Pincode": "500062",
+    "StationType": "COCO",
+    "FuelType": "Petrol",
+    "CurrentPriceUSD": 1.22,
+    "PreviousPriceUSD": 1.21,
+    "PumpName": "HPCL ECIL",
+    "PumpContact": "9123456710",
+    "Latitude": 17.4793,
+    "Longitude": 78.5583
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "ECIL",
+    "Pincode": "500062",
     "StationType": "CODO",
     "FuelType": "Diesel",
     "CurrentPriceUSD": 1.09,
     "PreviousPriceUSD": 1.09,
-    "PumpName": "HPCL Bengaluru",
-    "PumpContact": "9011223344"
+    "PumpName": "HPCL ECIL",
+    "PumpContact": "9123456710",
+    "Latitude": 17.4793,
+    "Longitude": 78.5583
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Tarnaka",
+    "Pincode": "500007",
+    "StationType": "COCO",
+    "FuelType": "Petrol",
+    "CurrentPriceUSD": 1.21,
+    "PreviousPriceUSD": 1.20,
+    "PumpName": "IndianOil Tarnaka",
+    "PumpContact": "9123456711",
+    "Latitude": 17.4295,
+    "Longitude": 78.5280
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Tarnaka",
+    "Pincode": "500007",
+    "StationType": "CODO",
+    "FuelType": "Diesel",
+    "CurrentPriceUSD": 1.08,
+    "PreviousPriceUSD": 1.08,
+    "PumpName": "IndianOil Tarnaka",
+    "PumpContact": "9123456711",
+    "Latitude": 17.4295,
+    "Longitude": 78.5280
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Prakash Nagar",
+    "Pincode": "500016",
+    "StationType": "COCO",
+    "FuelType": "Petrol",
+    "CurrentPriceUSD": 1.22,
+    "PreviousPriceUSD": 1.21,
+    "PumpName": "BPCL Prakash Nagar",
+    "PumpContact": "9123456712",
+    "Latitude": 17.4430,
+    "Longitude": 78.4715
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Prakash Nagar",
+    "Pincode": "500016",
+    "StationType": "CODO",
+    "FuelType": "Diesel",
+    "CurrentPriceUSD": 1.09,
+    "PreviousPriceUSD": 1.09,
+    "PumpName": "BPCL Prakash Nagar",
+    "PumpContact": "9123456712",
+    "Latitude": 17.4430,
+    "Longitude": 78.4715
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Ameerpet",
+    "Pincode": "500038",
+    "StationType": "COCO",
+    "FuelType": "Petrol",
+    "CurrentPriceUSD": 1.23,
+    "PreviousPriceUSD": 1.22,
+    "PumpName": "HPCL Ameerpet",
+    "PumpContact": "9123456713",
+    "Latitude": 17.4375,
+    "Longitude": 78.4483
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Ameerpet",
+    "Pincode": "500038",
+    "StationType": "CODO",
+    "FuelType": "Diesel",
+    "CurrentPriceUSD": 1.10,
+    "PreviousPriceUSD": 1.09,
+    "PumpName": "HPCL Ameerpet",
+    "PumpContact": "9123456713",
+    "Latitude": 17.4375,
+    "Longitude": 78.4483
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Malkajgiri",
+    "Pincode": "500047",
+    "StationType": "COCO",
+    "FuelType": "Petrol",
+    "CurrentPriceUSD": 1.21,
+    "PreviousPriceUSD": 1.20,
+    "PumpName": "IndianOil Malkajgiri",
+    "PumpContact": "9123456714",
+    "Latitude": 17.4477,
+    "Longitude": 78.5370
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Malkajgiri",
+    "Pincode": "500047",
+    "StationType": "CODO",
+    "FuelType": "Diesel",
+    "CurrentPriceUSD": 1.08,
+    "PreviousPriceUSD": 1.08,
+    "PumpName": "IndianOil Malkajgiri",
+    "PumpContact": "9123456714",
+    "Latitude": 17.4477,
+    "Longitude": 78.5370
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Begumpet",
+    "Pincode": "500016",
+    "StationType": "COCO",
+    "FuelType": "Petrol",
+    "CurrentPriceUSD": 1.22,
+    "PreviousPriceUSD": 1.21,
+    "PumpName": "IndianOil Begumpet",
+    "PumpContact": "9123456702",
+    "Latitude": 17.4474,
+    "Longitude": 78.4691
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Begumpet",
+    "Pincode": "500016",
+    "StationType": "CODO",
+    "FuelType": "Diesel",
+    "CurrentPriceUSD": 1.10,
+    "PreviousPriceUSD": 1.09,
+    "PumpName": "IndianOil Begumpet",
+    "PumpContact": "9123456702",
+    "Latitude": 17.4474,
+    "Longitude": 78.4691
+  },
+   {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Hitech City",
+    "Pincode": "500081",
+    "StationType": "COCO",
+    "FuelType": "Petrol",
+    "CurrentPriceUSD": 1.23,
+    "PreviousPriceUSD": 1.22,
+    "PumpName": "BPCL Hitech City",
+    "PumpContact": "9123456703",
+    "Latitude": 17.4435,
+    "Longitude": 78.3772
+  },
+  {
+    "Country": "India",
+    "State": "Telangana",
+    "Area": "Hitech City",
+    "Pincode": "500081",
+    "StationType": "CODO",
+    "FuelType": "Diesel",
+    "CurrentPriceUSD": 1.09,
+    "PreviousPriceUSD": 1.09,
+    "PumpName": "BPCL Hitech City",
+    "PumpContact": "9123456703",
+    "Latitude": 17.4435,
+    "Longitude": 78.3772
   }
 ]
