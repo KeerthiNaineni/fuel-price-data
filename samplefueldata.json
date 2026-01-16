@@ -70,8 +70,6 @@
     "Lat": 17.2403,
     "Lon": 78.4294
   },
-[
-  /* ---------------------- SECUNDERABAD (3 stations) ---------------------- */
   {
     "Country": "India",
     "State": "Telangana",
@@ -114,8 +112,6 @@
     "Lat": 17.4370,
     "Lon": 78.5078
   },
-
-  /* ---------------------- ECIL (4 stations) ---------------------- */
   {
     "Country": "India",
     "State": "Telangana",
@@ -230,8 +226,6 @@
     "Lat": 17.4518,
     "Lon": 78.3878
   },
-
-  /* ---------------------- TARNAKA (5 stations) ---------------------- */
   {
     "Country": "India",
     "State": "Telangana",
@@ -302,8 +296,6 @@
     "Lat": 17.4251,
     "Lon": 78.5291
   },
-
-  /* ---------------------- BEGUMPET (5 stations) ---------------------- */
   {
     "Country": "India",
     "State": "Telangana",
@@ -376,5 +368,4 @@
   }
 ]
 
-]
 
