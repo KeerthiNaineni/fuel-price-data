@@ -1,367 +1,627 @@
 
 [
   {
+    "PumpName": "HP COCO - Madhapur Main",
     "Country": "India",
     "State": "Telangana",
     "Area": "Madhapur",
     "Pincode": "500081",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "HP COCO - Madhapur Main",
     "PumpContact": "+91-40-40000001",
-    "CurrentPriceUSD": 1.22,
-    "PreviousPriceUSD": 1.20,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T15:15:30+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T15:15:30+05:30"
+      }
+    },
     "Lat": 17.4468,
     "Lon": 78.3866
   },
   {
+    "PumpName": "IOCL Pump - Kavuri Hills",
     "Country": "India",
     "State": "Telangana",
     "Area": "Madhapur",
     "Pincode": "500081",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "IOCL Pump - Kavuri Hills",
     "PumpContact": "+91-40-40000002",
-    "CurrentPriceUSD": 1.06,
-    "PreviousPriceUSD": 1.05,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T15:10:45+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T15:10:45+05:30"
+      }
+    },
     "Lat": 17.4419,
     "Lon": 78.4001
   },
   {
+    "PumpName": "BPCL - Image Gardens",
     "Country": "India",
     "State": "Telangana",
     "Area": "Madhapur",
     "Pincode": "500081",
     "StationType": "CODO",
-    "FuelType": "Petrol",
-      "PumpName": "BPCL - Image Gardens",
     "PumpContact": "+91-40-40000003",
-    "CurrentPriceUSD": 1.21,
-    "PreviousPriceUSD": 1.19,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T15:05:22+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T15:05:22+05:30"
+      }
+    },
     "Lat": 17.4473,
-    "Lon": 78.3820
+    "Lon": 78.382
   },
   {
+    "PumpName": "Reliance - HITECH City Rd",
     "Country": "India",
     "State": "Telangana",
     "Area": "Madhapur",
     "Pincode": "500081",
     "StationType": "COCO",
-    "FuelType": "Diesel",
-    "PumpName": "Reliance - HITECH City Rd",
     "PumpContact": "+91-40-40000004",
-    "CurrentPriceUSD": 1.07,
-    "PreviousPriceUSD": 1.06,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T15:00:10+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T15:00:10+05:30"
+      }
+    },
     "Lat": 17.4565,
     "Lon": 78.3842
   },
   {
+    "PumpName": "Essar - Shamshabad Hwy (Test Far)",
     "Country": "India",
     "State": "Telangana",
     "Area": "Madhapur",
     "Pincode": "500081",
     "StationType": "CODO",
-    "FuelType": "Petrol",
-    "PumpName": "Essar - Shamshabad Hwy (Test Far)",
     "PumpContact": "+91-40-40009999",
-    "CurrentPriceUSD": 1.18,
-    "PreviousPriceUSD": 1.17,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:55:55+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:55:55+05:30"
+      }
+    },
     "Lat": 17.2403,
     "Lon": 78.4294
   },
   {
+    "PumpName": "HP Secunderabad Main",
     "Country": "India",
     "State": "Telangana",
     "Area": "Secunderabad",
     "Pincode": "500003",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "HP Secunderabad Main",
     "PumpContact": "+91-40-40010001",
-    "CurrentPriceUSD": 1.23,
-    "PreviousPriceUSD": 1.21,
-    "Lat": 17.4410,
-    "Lon": 78.4980
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:50:40+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:50:40+05:30"
+      }
+    },
+    "Lat": 17.441,
+    "Lon": 78.498
   },
   {
+    "PumpName": "BPCL Secunderabad Junction",
     "Country": "India",
     "State": "Telangana",
     "Area": "Secunderabad",
     "Pincode": "500003",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "BPCL Secunderabad Junction",
     "PumpContact": "+91-40-40010002",
-    "CurrentPriceUSD": 1.09,
-    "PreviousPriceUSD": 1.08,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:45:25+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:45:25+05:30"
+      }
+    },
     "Lat": 17.4383,
     "Lon": 78.5034
   },
   {
+    "PumpName": "IOCL Tank Bund Road",
     "Country": "India",
     "State": "Telangana",
     "Area": "Secunderabad",
     "Pincode": "500003",
     "StationType": "CODO",
-    "FuelType": "Petrol",
-    "PumpName": "IOCL Tank Bund Road",
     "PumpContact": "+91-40-40010003",
-    "CurrentPriceUSD": 1.22,
-    "PreviousPriceUSD": 1.20,
-    "Lat": 17.4370,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:40:05+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:40:05+05:30"
+      }
+    },
+    "Lat": 17.437,
     "Lon": 78.5078
   },
   {
+    "PumpName": "HP ECIL Cross Roads",
     "Country": "India",
     "State": "Telangana",
     "Area": "ECIL",
     "Pincode": "500062",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "HP ECIL Cross Roads",
     "PumpContact": "+91-40-40020001",
-    "CurrentPriceUSD": 1.21,
-    "PreviousPriceUSD": 1.19,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:35:33+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:35:33+05:30"
+      }
+    },
     "Lat": 17.4792,
     "Lon": 78.5721
   },
   {
+    "PumpName": "BPCL ECIL Highway",
     "Country": "India",
     "State": "Telangana",
     "Area": "ECIL",
     "Pincode": "500062",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "BPCL ECIL Highway",
     "PumpContact": "+91-40-40020002",
-    "CurrentPriceUSD": 1.07,
-    "PreviousPriceUSD": 1.06,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:30:18+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:30:18+05:30"
+      }
+    },
     "Lat": 17.4785,
     "Lon": 78.5678
   },
   {
+    "PumpName": "IOCL Moula Ali Road",
     "Country": "India",
     "State": "Telangana",
     "Area": "ECIL",
     "Pincode": "500062",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "IOCL Moula Ali Road",
     "PumpContact": "+91-40-40020003",
-    "CurrentPriceUSD": 1.22,
-    "PreviousPriceUSD": 1.20,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:25:02+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:25:02+05:30"
+      }
+    },
     "Lat": 17.4721,
     "Lon": 78.5759
   },
   {
+    "PumpName": "Essar ECIL Chowrasta",
     "Country": "India",
     "State": "Telangana",
     "Area": "ECIL",
     "Pincode": "500062",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "Essar ECIL Chowrasta",
     "PumpContact": "+91-40-40020004",
-    "CurrentPriceUSD": 1.08,
-    "PreviousPriceUSD": 1.07,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:19:47+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:19:47+05:30"
+      }
+    },
     "Lat": 17.4764,
     "Lon": 78.5803
   },
   {
+    "PumpName": "HP Cyber Towers Pump",
     "Country": "India",
     "State": "Telangana",
     "Area": "Hitech City",
     "Pincode": "500081",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "HP Cyber Towers Pump",
     "PumpContact": "+91-40-40030001",
-    "CurrentPriceUSD": 1.24,
-    "PreviousPriceUSD": 1.22,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:14:31+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:14:31+05:30"
+      }
+    },
     "Lat": 17.4485,
     "Lon": 78.3901
   },
   {
+    "PumpName": "BPCL Shilparamam Road",
     "Country": "India",
     "State": "Telangana",
     "Area": "Hitech City",
     "Pincode": "500081",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "BPCL Shilparamam Road",
     "PumpContact": "+91-40-40030002",
-    "CurrentPriceUSD": 1.10,
-    "PreviousPriceUSD": 1.09,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:09:16+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:09:16+05:30"
+      }
+    },
     "Lat": 17.4497,
     "Lon": 78.3884
   },
   {
+    "PumpName": "IOCL Tech Park Outlet",
     "Country": "India",
     "State": "Telangana",
     "Area": "Hitech City",
     "Pincode": "500081",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "IOCL Tech Park Outlet",
     "PumpContact": "+91-40-40030003",
-    "CurrentPriceUSD": 1.23,
-    "PreviousPriceUSD": 1.21,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T14:04:00+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T14:04:00+05:30"
+      }
+    },
     "Lat": 17.4501,
     "Lon": 78.3923
   },
   {
+    "PumpName": "Reliance Hitech Square",
     "Country": "India",
     "State": "Telangana",
     "Area": "Hitech City",
     "Pincode": "500081",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "Reliance Hitech Square",
     "PumpContact": "+91-40-40030004",
-    "CurrentPriceUSD": 1.11,
-    "PreviousPriceUSD": 1.10,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:58:45+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:58:45+05:30"
+      }
+    },
     "Lat": 17.4518,
     "Lon": 78.3878
   },
   {
+    "PumpName": "HP Tarnaka Main Road",
     "Country": "India",
     "State": "Telangana",
     "Area": "Tarnaka",
     "Pincode": "500017",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "HP Tarnaka Main Road",
     "PumpContact": "+91-40-40040001",
-    "CurrentPriceUSD": 1.23,
-    "PreviousPriceUSD": 1.21,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:53:29+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:53:29+05:30"
+      }
+    },
     "Lat": 17.4294,
     "Lon": 78.5283
   },
   {
+    "PumpName": "BPCL Osmania University Gate",
     "Country": "India",
     "State": "Telangana",
     "Area": "Tarnaka",
     "Pincode": "500017",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "BPCL Osmania University Gate",
     "PumpContact": "+91-40-40040002",
-    "CurrentPriceUSD": 1.09,
-    "PreviousPriceUSD": 1.08,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:48:14+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:48:14+05:30"
+      }
+    },
     "Lat": 17.4312,
     "Lon": 78.5342
   },
   {
+    "PumpName": "IOCL Tarnaka Circle",
     "Country": "India",
     "State": "Telangana",
     "Area": "Tarnaka",
     "Pincode": "500017",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "IOCL Tarnaka Circle",
     "PumpContact": "+91-40-40040003",
-    "CurrentPriceUSD": 1.22,
-    "PreviousPriceUSD": 1.20,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:42:58+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:42:58+05:30"
+      }
+    },
     "Lat": 17.4288,
     "Lon": 78.5301
   },
   {
+    "PumpName": "Essar Warasiguda Road",
     "Country": "India",
     "State": "Telangana",
     "Area": "Tarnaka",
     "Pincode": "500017",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "Essar Warasiguda Road",
     "PumpContact": "+91-40-40040004",
-    "CurrentPriceUSD": 1.10,
-    "PreviousPriceUSD": 1.09,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:37:43+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:37:43+05:30"
+      }
+    },
     "Lat": 17.4265,
-    "Lon": 78.5360
+    "Lon": 78.536
   },
   {
+    "PumpName": "Reliance New Nallakunta",
     "Country": "India",
     "State": "Telangana",
     "Area": "Tarnaka",
     "Pincode": "500017",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "Reliance New Nallakunta",
     "PumpContact": "+91-40-40040005",
-    "CurrentPriceUSD": 1.24,
-    "PreviousPriceUSD": 1.23,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:32:27+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:32:27+05:30"
+      }
+    },
     "Lat": 17.4251,
     "Lon": 78.5291
   },
   {
+    "PumpName": "HP Begumpet Airport Road",
     "Country": "India",
     "State": "Telangana",
     "Area": "Begumpet",
     "Pincode": "500016",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "HP Begumpet Airport Road",
     "PumpContact": "+91-40-40050001",
-    "CurrentPriceUSD": 1.25,
-    "PreviousPriceUSD": 1.23,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:27:12+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:27:12+05:30"
+      }
+    },
     "Lat": 17.4439,
     "Lon": 78.4676
   },
   {
+    "PumpName": "BPCL Begumpet Flyover",
     "Country": "India",
     "State": "Telangana",
     "Area": "Begumpet",
     "Pincode": "500016",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "BPCL Begumpet Flyover",
     "PumpContact": "+91-40-40050002",
-    "CurrentPriceUSD": 1.12,
-    "PreviousPriceUSD": 1.11,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:21:56+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:21:56+05:30"
+      }
+    },
     "Lat": 17.4451,
     "Lon": 78.4698
   },
   {
+    "PumpName": "IOCL Greenlands Road",
     "Country": "India",
     "State": "Telangana",
     "Area": "Begumpet",
     "Pincode": "500016",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "IOCL Greenlands Road",
     "PumpContact": "+91-40-40050003",
-    "CurrentPriceUSD": 1.23,
-    "PreviousPriceUSD": 1.22,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:16:41+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:16:41+05:30"
+      }
+    },
     "Lat": 17.4444,
     "Lon": 78.4721
   },
   {
+    "PumpName": "Essar SP Road",
     "Country": "India",
     "State": "Telangana",
     "Area": "Begumpet",
     "Pincode": "500016",
     "StationType": "CODO",
-    "FuelType": "Diesel",
-    "PumpName": "Essar SP Road",
     "PumpContact": "+91-40-40050004",
-    "CurrentPriceUSD": 1.10,
-    "PreviousPriceUSD": 1.09,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:11:25+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:11:25+05:30"
+      }
+    },
     "Lat": 17.4462,
-    "Lon": 78.4750
+    "Lon": 78.475
   },
   {
+    "PumpName": "Reliance Begumpet Circle",
     "Country": "India",
     "State": "Telangana",
     "Area": "Begumpet",
     "Pincode": "500016",
     "StationType": "COCO",
-    "FuelType": "Petrol",
-    "PumpName": "Reliance Begumpet Circle",
     "PumpContact": "+91-40-40050005",
-    "CurrentPriceUSD": 1.24,
-    "PreviousPriceUSD": 1.23,
+    "FuelTypesAvailable": ["Petrol", "Diesel"],
+    "Prices": {
+      "Petrol": {
+        "CurrentPriceUSD": 1.295,
+        "PreviousPriceUSD": 1.296,
+        "LastUpdated": "2026-01-20T13:06:10+05:30"
+      },
+      "Diesel": {
+        "CurrentPriceUSD": 1.154,
+        "PreviousPriceUSD": 1.152,
+        "LastUpdated": "2026-01-20T13:06:10+05:30"
+      }
+    },
     "Lat": 17.4475,
-    "Lon": 78.4710
+    "Lon": 78.471
   }
 ]
